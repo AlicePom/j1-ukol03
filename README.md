@@ -13,8 +13,8 @@ V Javě se výstup rozlišuje tím, jakou vlastnost používáte pro výpis chyb
 použití: 
 
 ```java
-System.out.println("Program se spustil.");
-System.err.println("V programu došlo k chybě");
+//System.out.println("Program se spustil.");
+//System.err.println("V programu došlo k chybě");
 ```
 
 Protože se tyto výpisy používají často, má pro ně IntelliJ Idea zkratky. Stačí napsat `sout` nebo `serr` a stisknout tabulátor, a IntelliJ Idea kód rozvine do 
